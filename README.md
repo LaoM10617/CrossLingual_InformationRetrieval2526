@@ -1,0 +1,2 @@
+# CrossLingual_InformationRetrieval2526
+CLIR2526_SeminarProject
